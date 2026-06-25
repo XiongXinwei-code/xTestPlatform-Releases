@@ -142,7 +142,7 @@
 
 **深度集成的智能伙伴**：将AI注入测试全流程，自动生成测试序列、智能诊断失败原因；具备动态知识库，感知项目上下文，回答各类测试相关问题。
 
-![xTestCopilot 智能助手对话框界面](images/xcopilot_dialog.png)
+![xTestCopilot 智能助手对话框界面](/xcopilot_dialog.png)
 
 *（xTestCopilot 对话框界面，清晰展示了能力列表、使用前提与三种工作模式入口）*
 
