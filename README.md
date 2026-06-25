@@ -6,6 +6,14 @@
 
 ---
 
+## 📥 立即下载
+
+[![Download xTest Platform](https://img.shields.io/badge/⬇️%20下载-xTest%20Platform-brightgreen?style=flat-square&logo=github&logoColor=white)](https://github.com/XiongXinwei-code/xTestPlatform-Releases/releases)
+
+> 点击徽章即可跳转 GitHub Releases 页面获取最新版本（当前 v0.2.2）
+
+---
+
 ## 什么是 xTest Platform？
 
 一个完整的测试序列开发生态系统：
