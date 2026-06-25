@@ -8,9 +8,10 @@
 
 ## 📥 立即下载
 
-[![Download xTest Platform](https://img.shields.io/badge/⬇️%20下载-xTest%20Platform-brightgreen?style=flat-square&logo=github&logoColor=white)](https://github.com/XiongXinwei-code/xTestPlatform-Releases/releases)
+[![最新版本](https://img.shields.io/github/v/release/XiongXinwei-code/xTestPlatform-Releases?style=flat-square&logo=github)](https://github.com/XiongXinwei-code/xTestPlatform-Releases/releases)
+[![下载入口](https://img.shields.io/badge/⬇️%20下载-获取安装包-brightgreen?style=flat-square&logo=github&logoColor=white)](https://github.com/XiongXinwei-code/xTestPlatform-Releases/releases)
 
-> 点击徽章即可跳转 GitHub Releases 页面获取最新版本（当前 v0.2.2）
+> 点击徽章跳转 GitHub Releases，版本号会自动同步最新发布。
 
 ---
 
