@@ -3,7 +3,7 @@
 **下一代测试序列集成开发环境**
 
 **Author：XiongXinwei**
-
+**WeChart：qwsa1900**
 ---
 
 ## 📥 立即下载
@@ -183,8 +183,3 @@
 
 ---
 
-## 感谢聆听
-
-**Q & A 互动问答环节**
-
-**Author：XiongXinwei**
